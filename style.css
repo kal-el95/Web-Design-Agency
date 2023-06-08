@@ -50,6 +50,22 @@ footer{
 }
 .n{
     float: left;
-    width: 10%;  
-     
+    width: 10%;   
 }
+@media(max-width:550px){
+    .a{
+        width: 100%;
+    }
+    .ac{
+        width: 100%;
+        margin: 0;
+    }
+    .b {
+        height: 100px;
+        width: 125px;
+        margin-left: 12px;
+        margin-right: 12px;
+        margin-bottom: 15px;
+        margin-top: 10px;
+}
+    }
